@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Hiring a chef/out/
+/Problems/Hiring a chef/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/The result of a Tic-Tac-Toe game/out/
+/Problems/The result of a Tic-Tac-Toe game/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/

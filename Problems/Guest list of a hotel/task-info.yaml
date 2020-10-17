@@ -1,0 +1,40 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    //put imports you need here
+
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9261
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Jane Kate
+    John
+    Mary Susan Paul
+    Boris Ann
+    Correct output:
+    Ann
+    Boris
+    Paul
+    Susan
+    Mary
+    John
+    Kate
+    Jane
+
+    Your code output:
+    Jane
+  time: Sat, 17 Oct 2020 20:58:44 UTC
+record: -1
